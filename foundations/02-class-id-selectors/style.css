@@ -1,0 +1,21 @@
+.class1, .class2 {
+    background-color: rgb(255, 170, 170);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+#id1 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: rgb(150, 220, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*Solution is slightly different, groups the classes on the html page and not on CSS*/
